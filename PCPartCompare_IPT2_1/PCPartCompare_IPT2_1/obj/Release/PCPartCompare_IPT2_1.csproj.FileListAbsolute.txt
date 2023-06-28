@@ -1,0 +1,40 @@
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\ComponentDB.accdb
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.exe.config
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.exe
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.pdb
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.AssemblyReference.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\MainWindow.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\ResultWindow.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\App.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_Content.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_MarkupCompile.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_MarkupCompile.lref
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\MainWindow.baml
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\ResultWindow.baml
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.g.resources
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.Properties.Resources.resources
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.GenerateResource.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.CoreCompileInputs.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.exe
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\Visual Studio Project\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.pdb
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\ComponentDB.accdb
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.exe.config
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.exe
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\bin\Release\PCPartCompare_IPT2_1.pdb
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.AssemblyReference.cache
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\MainWindow.g.cs
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\ResultWindow.g.cs
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\App.g.cs
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_Content.g.cs
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_MarkupCompile.cache
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1_MarkupCompile.lref
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\MainWindow.baml
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\ResultWindow.baml
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.g.resources
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.Properties.Resources.resources
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.GenerateResource.cache
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.csproj.CoreCompileInputs.cache
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.exe
+C:\Users\trusc\Desktop\PCPartCompare_IPT2_1\PCPartCompare_IPT2_1\obj\Release\PCPartCompare_IPT2_1.pdb
